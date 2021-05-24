@@ -1,2 +1,4 @@
-# layout-app-python-tkinter-lavinia
-Trabalho da Lavínia em Programação de Aplicativos
+# Trabalho da Lavínia em Programação de Aplicativos
+
+## Instruções para rodar:
+Fazer o download em uma pasta e executar o arquivo 'app.py'
